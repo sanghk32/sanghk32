@@ -17,6 +17,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanghk32&show_icons=true&theme=holi&hide_title=true&card_width=495" style="max-width: 495px;" />
 </div>
@@ -25,12 +27,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghk32&exclude_repo=sanghk32.github.io&layout=compact&theme=tokyonight&card_width=495" style="max-width: 495px;" />
   </a>
 </div>
+
+<br/>
+
 <div align="center">    
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanghk32&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
-<hr>
+<br/>
+
 <div align="center">  
   
   
