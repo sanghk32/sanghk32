@@ -26,6 +26,9 @@
 <a href="https://github.com/sanghk32">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghk32&exclude_repo=sanghk32.github.io&layout=compact&theme=tokyonight&card_width=495" style="max-width: 495px;" />
   </a>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghk32&theme=blue-green)](https://github.com/sanghk32/github-readme-stats)
+
 </div>
 
 <br/>
