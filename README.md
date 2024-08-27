@@ -28,7 +28,7 @@
   </a>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghk32&theme=blue-green)](https://github.com/sanghk32/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghk32&show_icons=true&theme=radical)
 </div>
 
 <br/>
