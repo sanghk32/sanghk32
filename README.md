@@ -33,5 +33,20 @@
 ### ![icons8-probot-is-github-apps-to-automate-and-improve-your-workflow-16](https://github.com/user-attachments/assets/33e187b4-77a9-4f21-aeac-d8085cdd7426) Algorithm  
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reaweon1)](https://solved.ac/reaweon1)
+
+  <br/>
   <img src="http://mazandi.herokuapp.com/api?handle=reaweon1&theme=cold"/>
+
 </div>
+
+<div align="center">
+    <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=sanghk32&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sanghk32"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
+
