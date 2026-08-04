@@ -19,14 +19,6 @@
 
 <br/>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sanghk32&show_icons=true&theme=holi&hide_title=true" style="width: 495px;">
-</div>
-
-
-<br/>
-
 <div align="center">    
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanghk32&theme=tokyonight)](https://git.io/streak-stats)
